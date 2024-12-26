@@ -10,3 +10,11 @@ From 25 December, I'll be coding for 100 days everyday. This repo is to track my
         Node.js core modules - http, fs, events, path and readline
         Express.js calling methods - GET, POST, DELETE, PUT
         Refer my "nodejs_lp" and "expressjs_lp" repo for a few blocks of code that I practiced during this learning process
+
+26 December - 
+    Yeah so following the completion of basics of both node.js and express.js, I've practiced it by building RESTful API's for a blog app as well as a task manager app. With that I'm confident with the basics of node and express and with that I'm moving into noSQL database(mongoDB). I've started off with some blogs and I'm about to practice it
+
+        Key takeaways - 
+            Built RESTful APIs for both blog app and task manager app
+            Went through the intro of noSQL databases
+            Started off with mongodb and mongoose
