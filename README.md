@@ -18,3 +18,9 @@ From 25 December, I'll be coding for 100 days everyday. This repo is to track my
             Built RESTful APIs for both blog app and task manager app
             Went through the intro of noSQL databases
             Started off with mongodb and mongoose
+
+27 December-
+    Continued with the mongols and mongoose query syntaxes and likes. Did some data operations like insert, update and deletion.
+        
+        Key takeaways -
+             Used mongodb queries and inserted and operated data using atlas db
