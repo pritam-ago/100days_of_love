@@ -24,3 +24,11 @@ From 25 December, I'll be coding for 100 days everyday. This repo is to track my
         
         Key takeaways -
              Used mongodb queries and inserted and operated data using atlas db
+
+28 December - 
+    Learnt to use express and node.js with mongodb and hence built a basic url shortener. And as I'm curious about getting that live on internet, I digged deep on how to host it on AWS, I know how to in vercel but I kinda like it complicated so just wanted to explore AWS. Created account in aws and got my console and createed a IAM user. Starting off with ubuntu and ssh, things are getting complicated even more. Ufff.... But great things wont come with ease. So I'll go through this and try to master it.
+
+        Key takeaways - 
+            Built an url shortener
+            Started off with AWS and ubuntu
+            Refer to the "mongodb_lp" repo for my url shortener project
