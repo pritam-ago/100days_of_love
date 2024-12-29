@@ -19,7 +19,7 @@ From 25 December, I'll be coding for 100 days everyday. This repo is to track my
             Went through the intro of noSQL databases
             Started off with mongodb and mongoose
 
-27 December-
+27 December -
     Continued with the mongols and mongoose query syntaxes and likes. Did some data operations like insert, update and deletion.
         
         Key takeaways -
@@ -32,3 +32,10 @@ From 25 December, I'll be coding for 100 days everyday. This repo is to track my
             Built an url shortener
             Started off with AWS and ubuntu
             Refer to the "mongodb_lp" repo for my url shortener project
+29 December - 
+    So yeah... rough time through AWS and decided to place it aside and complete my noSQL learning curve. Learnt about mongoDB aggregation frameworks and some advanced queries like gt, lt, or, and, etc...
+Much more to learn in mongoDB and I'm planning to start an intermediate level project which covers almost every feature I have to know about node.js, express.js and mongoDB. I"ve been brainstorming few ideas lately. Will be finalizing it tonight. It will cover concepts like JWT auth and likes, so From today Everything I learn and build will be in reference to the project. Roughly by 30 or 40days I'll be completing the project and master all the essential elements of backend. About to use MERN stack.
+
+        Key takeaways - 
+            Brainstorming a project idea with which I'll be learning MERN stack
+            Estimated project deadline is about 30-40 days i.e by the end of January or February 1st week
