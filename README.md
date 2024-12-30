@@ -39,3 +39,11 @@ Much more to learn in mongoDB and I'm planning to start an intermediate level pr
         Key takeaways - 
             Brainstorming a project idea with which I'll be learning MERN stack
             Estimated project deadline is about 30-40 days i.e by the end of January or February 1st week
+
+30 December -
+    Figured out what project to start with and it's a donation platform where people can raise causes and donate for causes others create. It's structure and schemas are under planning and as the first and most important step, revised the commands of git. 
+
+        Key takeaways - 
+            Learnt git commands
+            Started a project, a donation platform
+            Created basic folder structures and database connection, and also basic routes setup using express and node
