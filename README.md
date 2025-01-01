@@ -47,3 +47,11 @@ Much more to learn in mongoDB and I'm planning to start an intermediate level pr
             Learnt git commands
             Started a project, a donation platform
             Created basic folder structures and database connection, and also basic routes setup using express and node
+
+1 January - 
+    Continued the donation platform project, created the user schema and causes schema. Made the register and login routes for user authentication. Included the JWT token generation and coded the middleware for authenticated routes as well. The register route is working perfectly, there is an error with the login route and I'm into it.
+
+        Key takeaways - 
+            Created schemas and models
+            Used JWT token generation
+            middleware for authenticated routes
