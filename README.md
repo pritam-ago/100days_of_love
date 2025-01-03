@@ -55,3 +55,18 @@ Much more to learn in mongoDB and I'm planning to start an intermediate level pr
             Created schemas and models
             Used JWT token generation
             middleware for authenticated routes
+
+2 January - 
+    Fixed major bugs in the project, Created the frontend of the project and addded basic pages like login signup and likes.
+
+        Key takeaways - 
+            Errors fixed
+            Started frontend with reactjs
+
+3 January - 
+    Continued with the frontend and enhanced it by adding few more functionalities like donation leaderboard emerging causes, etc...
+
+        Key takeaways - 
+            More functionalities added
+            Few pages created
+            CSS done
